@@ -1,0 +1,30 @@
+.home-body{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    height: calc(100vh - 50px)
+}
+
+.home-body .menu-links{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.menu-links a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    width: 100%;
+    height: 50px;
+}
+.menu-links a:hover{
+    background-color: rgba(211, 211, 211, 0.233);
+}
+.outlet-content{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}

@@ -1,0 +1,30 @@
+
+.task-body{
+    width: 80%;
+    height: 50px;
+    border: 1px solid back;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: 15px;
+
+
+    /*glass effect css */
+    background: rgba(255, 255, 255, 0.23);
+    border-radius: 10px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    
+}
+.task-body .buttons{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.task-body select{
+    border-radius: 5px;
+    height: 25px;
+    width: 100px;
+}

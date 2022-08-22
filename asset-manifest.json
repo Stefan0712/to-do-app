@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./https://stefan0712.github.io/to-do-app/static/css/main.66c172bf.css",
+    "main.js": "./https://stefan0712.github.io/to-do-app/static/js/main.1401a934.js",
+    "static/media/fav-off.png": "./https://stefan0712.github.io/to-do-app/static/media/fav-off.190d870d386afd29523a.png",
+    "static/media/fav-on.png": "./https://stefan0712.github.io/to-do-app/static/media/fav-on.618d11e122cbca3f8e9e.png",
+    "index.html": "./https://stefan0712.github.io/to-do-app/index.html",
+    "main.66c172bf.css.map": "./https://stefan0712.github.io/to-do-app/static/css/main.66c172bf.css.map",
+    "main.1401a934.js.map": "./https://stefan0712.github.io/to-do-app/static/js/main.1401a934.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66c172bf.css",
+    "static/js/main.1401a934.js"
+  ]
+}
